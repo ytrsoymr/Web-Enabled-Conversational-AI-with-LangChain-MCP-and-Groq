@@ -30,7 +30,7 @@ A powerful conversational AI chatbot built using **LangChain**, **Groq LLMs**, a
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/MCPDemo.git
+   git clone https://github.com/ytrsoymr/MCPDemo.git
    cd MCPDemo
    ```
 
